@@ -4,7 +4,7 @@
 ![POPPY](https://cdn.pbrd.co/images/H5TybsP.png)
 
 
-Papaver somniferum is an ERC20 token, and related to the earlier release of Papaversomniferum (POPPY), a QT app. trading on Yobit Exchange
+Papaver somniferum is an ERC20 token, and related to the earlier release of Papaversomniferum (POPPY), a QT app. trading on [Yobit Exchange](https://yobit.io/en/trade/POPPY/BTC)
 
 Compiler Version: v0.4.19+commit.c4cbbb05
 
@@ -22,3 +22,8 @@ Contract Creator
 
 TX
 [0x9cb02f90366a35af5a07b2501ff9fcca57024af0b70c7037e2c3d806b0f8a184](https://etherscan.io/tx/0x9cb02f90366a35af5a07b2501ff9fcca57024af0b70c7037e2c3d806b0f8a184)
+
+
+-----
+
+Copyright [www.soporific.info](http://soporific.info)
